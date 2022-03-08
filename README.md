@@ -90,9 +90,13 @@ Follow below the goals for this project:
 
 ## SUMMARY
 
-A short description of what was accomplished
+Follow below some highlights and findings related to the analyze cryptocurrency data predictions:
+
+* The prediction 3 (PC 3) has the better findings related the CoinName
+* The Acute Angle Cloud, Poa Network, BiblePay and Vechain (CoinName) are the top new cryptocurrency to recommend for investments as according to the analysis
 
 ![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Extra%20Analysis_Module18.PNG)
 
 ## RECOMMENDATIONS
 
+We suggest a future analysis comparing the new currencies accessible at more reasonable costs vs the most popular bitcoins available to investors.
