@@ -18,10 +18,32 @@ Follow below the goals for this project:
 
 ## Resources
 
-
+* Data Source: [crypto_clustering.ipynb](https://github.com/DougUOT/Cryptocurrencies/blob/main/crypto_clustering.ipynb). The database is available on [crypto_data.csv](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/crypto_data.csv) 
+* Software & Data Tools: Python 3.8.8, Visual Studio Code 1.64.2, Jupyter Notebook 6.4.8, and pandas 1.4.1
 
 ## Results & Code
 
+### Objective 1: Preprocessing the Data for PCA
+
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_1_1.PNG)
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_1_2.PNG)
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_1_3.PNG)
+
+### Objective 2: Reducing Data Dimensions Using PCA
+
+
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_2.PNG)
+
+### Objective 3: Clustering Cryptocurrencies Using K-means
+
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_3_1.PNG)
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_3_2.PNG)
+
+### Objective 4: Visualizing Cryptocurrencies Results
+
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_4_1.PNG)
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_4_2.PNG)
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_4_3.PNG)
 
 ## SUMMARY
 
