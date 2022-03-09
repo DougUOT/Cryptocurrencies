@@ -95,7 +95,7 @@ Follow below some highlights and findings related to the analyze cryptocurrency 
 * The prediction 3 (PC 3) has the better findings related the CoinName
 * The Waves, Poa Network, LitecoinCash, Acute Angle Cloud and BiblePay (CoinName) are the top new cryptocurrency to recommend for investments as according to the analysis
 * In order to diversify the investment portfolio, I would also recommend the CoinName BitTorrent. 
-* It is important to mentioned that the results generated from unsupervised Machine LearningTmay be less precise as information isn't labeled, and algorithms don't have a clue about the exact output ahead of time.
+* It is important to mentioned that the results generated from unsupervised Machine Learning, may be less precise as information isn't labeled, and algorithms don't have a clue about the exact output ahead of time.
 
 ![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Extra%20Analysis_Module18.PNG)
 
