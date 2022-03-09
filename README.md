@@ -71,7 +71,7 @@ Follow below the goals for this project:
   * Create a 3D scatter plot using the Plotly Express scatter_3d() function to plot the three clusters from the clustered_df DataFrame
   *  * Add the CoinName and Algorithm columns to the hover_name and hover_data parameters, respectively, so each data point shows the CoinName and Algorithm on hover
 
-![]https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_4_1.PNG)
+![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_4_1.PNG)
 
  
   * Create a table with tradable cryptocurrencies using the hvplot.table() function.
