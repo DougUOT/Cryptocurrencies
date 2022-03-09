@@ -71,7 +71,7 @@ Follow below the goals for this project:
   * Create a 3D scatter plot using the Plotly Express scatter_3d() function to plot the three clusters from the clustered_df DataFrame
   *  * Add the CoinName and Algorithm columns to the hover_name and hover_data parameters, respectively, so each data point shows the CoinName and Algorithm on hover
 
-![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_4_1.PNG)
+![]https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Capture18_4_1.PNG)
 
  
   * Create a table with tradable cryptocurrencies using the hvplot.table() function.
@@ -93,7 +93,9 @@ Follow below the goals for this project:
 Follow below some highlights and findings related to the analyze cryptocurrency data predictions:
 
 * The prediction 3 (PC 3) has the better findings related the CoinName
-* The Acute Angle Cloud, Poa Network, BiblePay and Vechain (CoinName) are the top new cryptocurrency to recommend for investments as according to the analysis
+* The Waves, Poa Network, LitecoinCash, Acute Angle Cloud and BiblePay (CoinName) are the top new cryptocurrency to recommend for investments as according to the analysis
+* In order to diversify the investment portfolio, I would also recommend the CoinName BitTorrent. 
+* It is important to mentioned that the results generated from unsupervised Machine LearningTmay be less precise as information isn't labeled, and algorithms don't have a clue about the exact output ahead of time.
 
 ![](https://github.com/DougUOT/Cryptocurrencies/blob/main/Resources/Images/Extra%20Analysis_Module18.PNG)
 
