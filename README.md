@@ -7,8 +7,6 @@ We have the chance to pitch an investment in cryptocurrencies to the firm Accoun
 
 We will work on how to process data to use an unsupervised model. We will work primarily with the K-means algorithm, the main unsupervised algorithm that groups similar data into clusters. We will build on this by speeding up the process using principal component analysis (PCA), which employs many different features. Finally, we will make our models more efficient using principal component analysis.
 
-This assignment is related to the Bootcamp Data Analytics from the University of Toronto. It comprises the goals below for this module: 
-
 Follow below the goals for this project:
 
 1) Objective 1: Preprocessing the Data for PCA
